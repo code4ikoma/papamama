@@ -4,13 +4,16 @@
         {
             "type": "Feature",
             "properties": {
+                "properties": "",
                 "Id": "0",
                 "N02_001": "10",
                 "N02_002": "1",
                 "line": "近鉄奈良線",
                 "company": "近畿日本鉄道",
                 "station_name": "生駒駅",
-                "shubetsu": "近鉄"
+                "shubetsu": "近鉄",
+                "lon": 135.6979624,
+                "lat": 34.69315685
             },
             "geometry": {
                 "type": "Point",
@@ -23,13 +26,16 @@
         {
             "type": "Feature",
             "properties": {
+                "properties": "",
                 "Id": "0",
                 "N02_001": "10",
                 "N02_002": "1",
                 "line": "近鉄奈良線",
                 "company": "近畿日本鉄道",
                 "station_name": "学園前駅",
-                "shubetsu": "近鉄"
+                "shubetsu": "近鉄",
+                "lon": 135.7507481,
+                "lat": 34.69771663
             },
             "geometry": {
                 "type": "Point",
@@ -42,13 +48,16 @@
         {
             "type": "Feature",
             "properties": {
+                "properties": "",
                 "Id": "0",
                 "N02_001": "10",
                 "N02_002": "1",
                 "line": "近鉄奈良線",
                 "company": "近畿日本鉄道",
                 "station_name": "富雄駅",
-                "shubetsu": "近鉄"
+                "shubetsu": "近鉄",
+                "lon": 135.7340698,
+                "lat": 34.69431687
             },
             "geometry": {
                 "type": "Point",
@@ -61,13 +70,16 @@
         {
             "type": "Feature",
             "properties": {
+                "properties": "",
                 "Id": "0",
                 "N02_001": "10",
                 "N02_002": "1",
                 "line": "近鉄奈良線",
                 "company": "近畿日本鉄道",
                 "station_name": "東生駒駅",
-                "shubetsu": "近鉄"
+                "shubetsu": "近鉄",
+                "lon": 135.7089717,
+                "lat": 34.691917
             },
             "geometry": {
                 "type": "Point",
@@ -80,13 +92,16 @@
         {
             "type": "Feature",
             "properties": {
+                "properties": "",
                 "Id": "0",
                 "N02_001": "11",
                 "N02_002": "1",
                 "line": "近鉄生駒線",
                 "company": "近畿日本鉄道",
                 "station_name": "一分駅",
-                "shubetsu": "近鉄"
+                "shubetsu": "近鉄",
+                "lon": 135.7079322,
+                "lat": 34.6757184
             },
             "geometry": {
                 "type": "Point",
@@ -99,13 +114,16 @@
         {
             "type": "Feature",
             "properties": {
+                "properties": "",
                 "Id": "0",
                 "N02_001": "11",
                 "N02_002": "1",
                 "line": "近鉄生駒線",
                 "company": "近畿日本鉄道",
                 "station_name": "菜畑駅",
-                "shubetsu": "近鉄"
+                "shubetsu": "近鉄",
+                "lon": 135.706892,
+                "lat": 34.68506764
             },
             "geometry": {
                 "type": "Point",
@@ -118,13 +136,16 @@
         {
             "type": "Feature",
             "properties": {
+                "properties": "",
                 "Id": "0",
                 "N02_001": "11",
                 "N02_002": "1",
                 "line": "近鉄生駒線",
                 "company": "近畿日本鉄道",
                 "station_name": "萩の台駅",
-                "shubetsu": "近鉄"
+                "shubetsu": "近鉄",
+                "lon": 135.7089825,
+                "lat": 34.65665981
             },
             "geometry": {
                 "type": "Point",
@@ -137,13 +158,16 @@
         {
             "type": "Feature",
             "properties": {
+                "properties": "",
                 "Id": "0",
                 "N02_001": "11",
                 "N02_002": "1",
                 "line": "近鉄生駒線",
                 "company": "近畿日本鉄道",
                 "station_name": "東山駅",
-                "shubetsu": "近鉄"
+                "shubetsu": "近鉄",
+                "lon": 135.7083826,
+                "lat": 34.6482705
             },
             "geometry": {
                 "type": "Point",
@@ -156,13 +180,16 @@
         {
             "type": "Feature",
             "properties": {
+                "properties": "",
                 "Id": "0",
                 "N02_001": "11",
                 "N02_002": "1",
                 "line": "近鉄生駒線",
                 "company": "近畿日本鉄道",
                 "station_name": "南生駒駅",
-                "shubetsu": "近鉄"
+                "shubetsu": "近鉄",
+                "lon": 135.7087824,
+                "lat": 34.66549915
             },
             "geometry": {
                 "type": "Point",
@@ -175,13 +202,16 @@
         {
             "type": "Feature",
             "properties": {
+                "properties": "",
                 "Id": "0",
                 "N02_001": "12",
                 "N02_002": "1",
                 "line": "近鉄生駒鋼索線",
                 "company": "近畿日本鉄道",
                 "station_name": "生駒山上駅",
-                "shubetsu": "近鉄"
+                "shubetsu": "近鉄",
+                "lon": 135.6804746,
+                "lat": 34.67945823
             },
             "geometry": {
                 "type": "Point",
@@ -194,13 +224,16 @@
         {
             "type": "Feature",
             "properties": {
+                "properties": "",
                 "Id": "0",
                 "N02_001": "12",
                 "N02_002": "1",
                 "line": "近鉄生駒鋼索線",
                 "company": "近畿日本鉄道",
                 "station_name": "梅屋敷駅",
-                "shubetsu": "近鉄"
+                "shubetsu": "近鉄",
+                "lon": 135.6869938,
+                "lat": 34.68331785
             },
             "geometry": {
                 "type": "Point",
@@ -213,13 +246,16 @@
         {
             "type": "Feature",
             "properties": {
+                "properties": "",
                 "Id": "0",
                 "N02_001": "12",
                 "N02_002": "1",
                 "line": "近鉄生駒鋼索線",
                 "company": "近畿日本鉄道",
                 "station_name": "霞ヶ丘駅",
-                "shubetsu": "近鉄"
+                "shubetsu": "近鉄",
+                "lon": 135.6835743,
+                "lat": 34.68127805
             },
             "geometry": {
                 "type": "Point",
@@ -232,13 +268,16 @@
         {
             "type": "Feature",
             "properties": {
+                "properties": "",
                 "Id": "0",
                 "N02_001": "12",
                 "N02_002": "1",
                 "line": "近鉄生駒鋼索線",
                 "company": "近畿日本鉄道",
                 "station_name": "鳥居前駅",
-                "shubetsu": "近鉄"
+                "shubetsu": "近鉄",
+                "lon": 135.6961326,
+                "lat": 34.69237692
             },
             "geometry": {
                 "type": "Point",
@@ -251,13 +290,16 @@
         {
             "type": "Feature",
             "properties": {
+                "properties": "",
                 "Id": "0",
                 "N02_001": "12",
                 "N02_002": "1",
                 "line": "近鉄生駒鋼索線",
                 "company": "近畿日本鉄道",
                 "station_name": "宝山寺駅",
-                "shubetsu": "近鉄"
+                "shubetsu": "近鉄",
+                "lon": 135.6891135,
+                "lat": 34.68597758
             },
             "geometry": {
                 "type": "Point",
@@ -270,13 +312,16 @@
         {
             "type": "Feature",
             "properties": {
+                "properties": "",
                 "Id": "0",
                 "N02_001": "13",
                 "N02_002": "1",
                 "line": "近鉄けいはんな線",
                 "company": "近畿日本鉄道",
                 "station_name": "学研北生駒駅",
-                "shubetsu": "近鉄"
+                "shubetsu": "近鉄",
+                "lon": 135.7232199,
+                "lat": 34.72479376
             },
             "geometry": {
                 "type": "Point",
@@ -289,13 +334,16 @@
         {
             "type": "Feature",
             "properties": {
+                "properties": "",
                 "Id": "0",
                 "N02_001": "13",
                 "N02_002": "1",
                 "line": "近鉄けいはんな線",
                 "company": "近畿日本鉄道",
                 "station_name": "学研奈良登美ヶ丘駅",
-                "shubetsu": "近鉄"
+                "shubetsu": "近鉄",
+                "lon": 135.7524872,
+                "lat": 34.72659333
             },
             "geometry": {
                 "type": "Point",
@@ -308,13 +356,16 @@
         {
             "type": "Feature",
             "properties": {
+                "properties": "",
                 "Id": "0",
                 "N02_001": "13",
                 "N02_002": "1",
                 "line": "近鉄けいはんな線",
                 "company": "近畿日本鉄道",
                 "station_name": "白庭台駅",
-                "shubetsu": "近鉄"
+                "shubetsu": "近鉄",
+                "lon": 135.7166705,
+                "lat": 34.72093407
             },
             "geometry": {
                 "type": "Point",
